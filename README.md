@@ -76,14 +76,23 @@ I'm enthusiastic about technology, coding, and connecting with fellow developers
 
 <table>
   <tr>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=taneja12&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=taneja12&show_icons=true&locale=en&layout=compact" width="100%"/></td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=taneja12&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taneja12&show_icons=true&locale=en&layout=compact&theme=dark" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=taneja12&show_icons=true&locale=en" width="100%"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=taneja12&" width="100%"/></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=taneja12&show_icons=true&locale=en&theme=dark" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=taneja12&theme=dark" width="100%"/>
+    </td>
   </tr>
 </table>
+
 
 
 ---
